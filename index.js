@@ -3,7 +3,6 @@ import bodyParser from 'body-parser';
 import usersRoutes from './routes/users.js';
 import { engine } from 'express-handlebars';
 
-
 const app = express();
 const PORT = 5000;
 

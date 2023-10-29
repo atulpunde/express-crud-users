@@ -1,0 +1,1 @@
+// added this file to integrate jQuery
